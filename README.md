@@ -77,3 +77,19 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=andrewferdinandus&limit=5&theme=flat&combine_all_yearly_contributions=true" />
 </p>
+
+---
+
+### 🛠 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
