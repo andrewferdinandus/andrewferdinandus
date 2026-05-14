@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Andrew Ferdinandus</h1>
 
 <div align="center">
-  <img src="https://github.com/andrewferdinandus/andrewferdinandus/blob/main/banner.png" alt="Andrew Banner">
+  <img src="https://github.com/andrewferdinandus/andrewferdinandus/blob/main/Banner.png" alt="Andrew Banner">
 </div>
 
 <h3 align="center">A passionate Cloud & DevOps Engineer based in New Zealand. I specialize in Linux environments, designing secure cloud architectures, and implementing DevSecOps practices.</h3>
