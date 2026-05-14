@@ -60,8 +60,8 @@
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true&cache_seconds=1800" />
 
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true&cache_seconds=1800" />
 </p>
