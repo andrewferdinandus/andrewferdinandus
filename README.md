@@ -4,14 +4,10 @@
   <img src="https://github.com/andrewferdinandus/andrewferdinandus/blob/main/Banner.png" alt="Andrew Banner">
 </div>
 
-┌─────────────────────────────────────────────────────────────┐
-│  ☁️ Cloud & Infrastructure Engineer                         │
-│                                                             │
-│  🐧 Linux • ☁️ Cloud • 🔐 DevSecOps • ⚙️ Automation         │
-│                                                             │
-│  Building secure, scalable, and reliable infrastructure.    │
-│  Based in New Zealand 🇳🇿                                   │
-└─────────────────────────────────────────────────────────────┘
+<h3 align="center">
+Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
+🐧 Enterprise Linux • 🔐 DevSecOps • ☁️ Cloud Automation • ⚙️ Infrastructure Engineering
+</h3>
 
 <p align="center">
   <a href="https://github.com/andrewferdinandus?tab=repositories">
