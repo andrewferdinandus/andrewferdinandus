@@ -72,3 +72,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=andrewferdinandus&theme=vue&hide_border=true)](https://git.io/streak-stats)
 ---
 
+<h3 align="left">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=andrewferdinandus&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+</p>
