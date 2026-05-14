@@ -11,7 +11,7 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
 
 <p align="center">
   <a href="https://github.com/andrewferdinandus?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://hub.docker.com/u/andrewferdi">
