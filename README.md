@@ -65,3 +65,10 @@
   <img width="48%" 
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
 </p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrewferdinandus&theme=vue&hide_border=true)](https://git.io/streak-stats)
+---
+
