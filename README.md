@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Andrew Ferdinandus</h1>
+<h1 align="center">🤝 Glad to Have You Here</h1>
 
 <div align="center">
   <img src="https://github.com/andrewferdinandus/andrewferdinandus/blob/main/Banner.png" alt="Andrew Banner">
