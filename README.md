@@ -23,7 +23,7 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andrewferdinandus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
