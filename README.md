@@ -4,7 +4,14 @@
   <img src="https://github.com/andrewferdinandus/andrewferdinandus/blob/main/Banner.png" alt="Andrew Banner">
 </div>
 
-<h3 align="center">A passionate Cloud & DevOps Engineer based in New Zealand. I specialize in Linux environments, designing secure cloud architectures, and implementing DevSecOps practices.</h3>
+┌─────────────────────────────────────────────────────────────┐
+│  ☁️ Cloud & Infrastructure Engineer                         │
+│                                                             │
+│  🐧 Linux • ☁️ Cloud • 🔐 DevSecOps • ⚙️ Automation         │
+│                                                             │
+│  Building secure, scalable, and reliable infrastructure.    │
+│  Based in New Zealand 🇳🇿                                   │
+└─────────────────────────────────────────────────────────────┘
 
 <p align="center">
   <a href="https://github.com/andrewferdinandus?tab=repositories">
