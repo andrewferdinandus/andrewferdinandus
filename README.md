@@ -58,7 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img width="48%" 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true" />
 
