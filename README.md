@@ -66,13 +66,16 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
-<p align="left">
-  <img width="48%" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true" />
-
-  <img width="48%" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
+</td>
+</tr>
+</table>
 
 ---
 <h3 align="center">🔥 GitHub Contribution Streak</h3>
