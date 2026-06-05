@@ -74,6 +74,10 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
 </p>
 
+## 📈 GitHub Activity
+
+[![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewferdinandus&theme=vue)](https://github.com/andrewferdinandus)
+
 ---
 ### 🔥 GitHub Contribution Streak
 
