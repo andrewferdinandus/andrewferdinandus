@@ -43,6 +43,7 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
 </p>
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -124,17 +125,6 @@ Linux Infrastructure Engineer → Cloud Engineering ☁️<br><br>
       </p>
     </td>
   </tr>
-</table>
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrewferdinandus&show_icons=true&theme=vue&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrewferdinandus&layout=compact&theme=vue&hide_border=true" />
-</td>
-</tr>
 </table>
 
 ---
